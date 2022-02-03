@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "zenbit-test-frontend",
   "private": true,
-  "homepage": "",
+  "homepage": ".",
   "author": "Rost Perig, rost.perig@gmail.com",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-07-phonebook/static/css/main.710e0c7b.chunk.css",
-    "main.js": "/goit-react-hw-07-phonebook/static/js/main.275f8216.chunk.js",
-    "main.js.map": "/goit-react-hw-07-phonebook/static/js/main.275f8216.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-07-phonebook/static/js/runtime-main.ba76c1eb.js",
-    "runtime-main.js.map": "/goit-react-hw-07-phonebook/static/js/runtime-main.ba76c1eb.js.map",
-    "static/css/2.bc922b9c.chunk.css": "/goit-react-hw-07-phonebook/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.e9fa0364.chunk.js": "/goit-react-hw-07-phonebook/static/js/2.e9fa0364.chunk.js",
-    "static/js/2.e9fa0364.chunk.js.map": "/goit-react-hw-07-phonebook/static/js/2.e9fa0364.chunk.js.map",
-    "index.html": "/goit-react-hw-07-phonebook/index.html",
-    "static/css/2.bc922b9c.chunk.css.map": "/goit-react-hw-07-phonebook/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.710e0c7b.chunk.css.map": "/goit-react-hw-07-phonebook/static/css/main.710e0c7b.chunk.css.map",
-    "static/js/2.e9fa0364.chunk.js.LICENSE.txt": "/goit-react-hw-07-phonebook/static/js/2.e9fa0364.chunk.js.LICENSE.txt"
+    "main.css": "/zenbit-test-frontendstatic/css/main.93fded53.chunk.css",
+    "main.js": "/zenbit-test-frontendstatic/js/main.c45c7ae5.chunk.js",
+    "main.js.map": "/zenbit-test-frontendstatic/js/main.c45c7ae5.chunk.js.map",
+    "runtime-main.js": "/zenbit-test-frontendstatic/js/runtime-main.c662fd50.js",
+    "runtime-main.js.map": "/zenbit-test-frontendstatic/js/runtime-main.c662fd50.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/zenbit-test-frontendstatic/css/2.bc922b9c.chunk.css",
+    "static/js/2.b1061be8.chunk.js": "/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js",
+    "static/js/2.b1061be8.chunk.js.map": "/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js.map",
+    "index.html": "/zenbit-test-frontendindex.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/zenbit-test-frontendstatic/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.93fded53.chunk.css.map": "/zenbit-test-frontendstatic/css/main.93fded53.chunk.css.map",
+    "static/js/2.b1061be8.chunk.js.LICENSE.txt": "/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba76c1eb.js",
+    "static/js/runtime-main.c662fd50.js",
     "static/css/2.bc922b9c.chunk.css",
-    "static/js/2.e9fa0364.chunk.js",
-    "static/css/main.710e0c7b.chunk.css",
-    "static/js/main.275f8216.chunk.js"
+    "static/js/2.b1061be8.chunk.js",
+    "static/css/main.93fded53.chunk.css",
+    "static/js/main.c45c7ae5.chunk.js"
   ]
 }
