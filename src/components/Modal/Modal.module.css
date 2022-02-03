@@ -1,0 +1,52 @@
+/*
+ * Стили компонента Modal
+ */
+
+.Overlay {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(6px);
+  z-index: 1200;
+}
+
+.Modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 320px;
+  min-height: 600px;
+  padding: 12px;
+  cursor: auto;
+  background-color: azure;
+  background-image: url('https://res.cloudinary.com/rostgoit/image/upload/v1643790533/test-messenges/goodie_3_qvxiys.png'),
+    url('https://res.cloudinary.com/rostgoit/image/upload/v1643790533/test-messenges/godie_1_hl2ufd.png');
+  background-repeat: no-repeat;
+  background-position: left 120px top -96px, left 0px bottom 0px;
+}
+
+.mess {
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.order {
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 700;
+}

@@ -1,2 +1,3 @@
-# zenbit-test-frontend
-zenbit-test-frontend
+# ZenBit-test-frontend
+
+ZenBit-test-frontend

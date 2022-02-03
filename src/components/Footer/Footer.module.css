@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  height: 200px;
+  width: 100vw;
+  background-color: #fafafa;
+  border-top: solid 1px #d8d8d8;
+  background-image: url('https://res.cloudinary.com/rostgoit/image/upload/v1643790533/test-messenges/godie_1_hl2ufd.png'),
+    url('https://res.cloudinary.com/rostgoit/image/upload/v1643790533/test-messenges/goodie_3_qvxiys.png'),
+    url('https://res.cloudinary.com/rostgoit/image/upload/v1643796697/test-messenges/goodie_4_xmm6sw.png');
+  background-repeat: no-repeat;
+  background-position: left calc(50vw + 600px) top 60px, left 2vw top -36px,
+    left calc(50vw + 514px) top 0px;
+}
+
+.links {
+  display: flex;
+  margin-left: 23vw;
+  margin-top: 80px;
+}
+
+.icon {
+  width: 16px;
+}
+
+.link {
+  margin: 0 12px;
+}

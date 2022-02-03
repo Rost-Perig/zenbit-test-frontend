@@ -1,0 +1,72 @@
+:root {
+  --animation-duration: 250ms;
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  height: 928px;
+  margin-left: 10vw;
+  padding-top: 179px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  width: 557px;
+  height: 93px;
+  box-sizing: border-box;
+  padding-left: 48px;
+  margin: 4px 0;
+  /* border: none; */
+  border: 1px solid rgba(220, 220, 220, 1);
+  border-radius: 10px;
+  outline: none;
+  font-family: Apercu Arabic Pro;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.8;
+  color: rgba(45, 45, 45, 1);
+}
+
+@media screen and (max-width: 768px) {
+  .input {
+    width: 80vw;
+    min-width: 256px;
+  }
+}
+
+.messages {
+  width: 557px;
+  height: 189px;
+  color: rgba(45, 45, 45, 1);
+}
+
+.input::placeholder {
+  opacity: 0.6;
+}
+
+.btn {
+  width: 218px;
+  height: 74px;
+  margin-top: 19px;
+  border: none;
+  border-radius: 37px;
+  font-family: Apercu Arabic Pro;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 400;
+  color: #ffffff;
+  background-color: #fad34f;
+  cursor: pointer;
+  transition: transform var(--animation-duration) var(--timing-function);
+}
+
+.btn:hover {
+  transform: scale(1.03);
+}
