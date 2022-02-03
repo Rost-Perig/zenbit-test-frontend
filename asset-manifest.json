@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zenbit-test-frontendstatic/css/main.93fded53.chunk.css",
-    "main.js": "/zenbit-test-frontendstatic/js/main.c45c7ae5.chunk.js",
-    "main.js.map": "/zenbit-test-frontendstatic/js/main.c45c7ae5.chunk.js.map",
-    "runtime-main.js": "/zenbit-test-frontendstatic/js/runtime-main.c662fd50.js",
-    "runtime-main.js.map": "/zenbit-test-frontendstatic/js/runtime-main.c662fd50.js.map",
-    "static/css/2.bc922b9c.chunk.css": "/zenbit-test-frontendstatic/css/2.bc922b9c.chunk.css",
-    "static/js/2.b1061be8.chunk.js": "/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js",
-    "static/js/2.b1061be8.chunk.js.map": "/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js.map",
-    "index.html": "/zenbit-test-frontendindex.html",
-    "static/css/2.bc922b9c.chunk.css.map": "/zenbit-test-frontendstatic/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.93fded53.chunk.css.map": "/zenbit-test-frontendstatic/css/main.93fded53.chunk.css.map",
-    "static/js/2.b1061be8.chunk.js.LICENSE.txt": "/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.93fded53.chunk.css",
+    "main.js": "./static/js/main.c45c7ae5.chunk.js",
+    "main.js.map": "./static/js/main.c45c7ae5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c57af434.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c57af434.js.map",
+    "static/css/2.bc922b9c.chunk.css": "./static/css/2.bc922b9c.chunk.css",
+    "static/js/2.b1061be8.chunk.js": "./static/js/2.b1061be8.chunk.js",
+    "static/js/2.b1061be8.chunk.js.map": "./static/js/2.b1061be8.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "./static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.93fded53.chunk.css.map": "./static/css/main.93fded53.chunk.css.map",
+    "static/js/2.b1061be8.chunk.js.LICENSE.txt": "./static/js/2.b1061be8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c662fd50.js",
+    "static/js/runtime-main.c57af434.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.b1061be8.chunk.js",
     "static/css/main.93fded53.chunk.css",
