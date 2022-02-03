@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.93fded53.chunk.css",
-    "main.js": "/static/js/main.c45c7ae5.chunk.js",
-    "main.js.map": "/static/js/main.c45c7ae5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c2fdb972.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c2fdb972.js.map",
-    "static/css/2.bc922b9c.chunk.css": "/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.b1061be8.chunk.js": "/static/js/2.b1061be8.chunk.js",
-    "static/js/2.b1061be8.chunk.js.map": "/static/js/2.b1061be8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.bc922b9c.chunk.css.map": "/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.93fded53.chunk.css.map": "/static/css/main.93fded53.chunk.css.map",
-    "static/js/2.b1061be8.chunk.js.LICENSE.txt": "/static/js/2.b1061be8.chunk.js.LICENSE.txt"
+    "main.css": "/Rost-Perig/zenbit-test-frontendstatic/css/main.93fded53.chunk.css",
+    "main.js": "/Rost-Perig/zenbit-test-frontendstatic/js/main.c45c7ae5.chunk.js",
+    "main.js.map": "/Rost-Perig/zenbit-test-frontendstatic/js/main.c45c7ae5.chunk.js.map",
+    "runtime-main.js": "/Rost-Perig/zenbit-test-frontendstatic/js/runtime-main.0caa428b.js",
+    "runtime-main.js.map": "/Rost-Perig/zenbit-test-frontendstatic/js/runtime-main.0caa428b.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/Rost-Perig/zenbit-test-frontendstatic/css/2.bc922b9c.chunk.css",
+    "static/js/2.b1061be8.chunk.js": "/Rost-Perig/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js",
+    "static/js/2.b1061be8.chunk.js.map": "/Rost-Perig/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js.map",
+    "index.html": "/Rost-Perig/zenbit-test-frontendindex.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/Rost-Perig/zenbit-test-frontendstatic/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.93fded53.chunk.css.map": "/Rost-Perig/zenbit-test-frontendstatic/css/main.93fded53.chunk.css.map",
+    "static/js/2.b1061be8.chunk.js.LICENSE.txt": "/Rost-Perig/zenbit-test-frontendstatic/js/2.b1061be8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2fdb972.js",
+    "static/js/runtime-main.0caa428b.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.b1061be8.chunk.js",
     "static/css/main.93fded53.chunk.css",
