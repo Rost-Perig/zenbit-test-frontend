@@ -20,14 +20,7 @@ const Modal = () => {
     const lastMessage = useMemo(() => {
         return messages[messages.length - 1]
     }, [messages]);
-
-    // lastMessage && const { name, message } = lastMessage.data.newMessage; 
-
-//     if (!!lastMessage) {
-//      const { name, message } = lastMessage.data.newMessage; 
-//   }
     
-
     useEffect(() => {
         if (messages.length) {
             setShowModal(true)
